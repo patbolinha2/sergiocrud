@@ -1,0 +1,31 @@
+body{
+    background-image:linear-gradient(45deg, rgb(163, 163, 163),rgb(47, 48, 47));
+}
+.box{
+    background-color: rgb(104, 99, 104);
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding: 45px;
+    border-radius: 15px;
+
+}
+
+button{
+    border: none;
+    color: rgb(74, 213, 255);
+    background-color: rgb(25, 58, 66);
+    border-radius: 15px;
+    width: 70%;
+    padding: 7px;
+    font-size: 15px;
+    
+}
+input{
+    border: none;
+    outline: none;
+    font-size: 15px;
+    
+}
